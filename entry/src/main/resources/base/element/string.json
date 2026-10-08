@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Opus codec sample for HarmonyOS wearables"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Opus encode, decode and playback demo"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Opus Codec"
+    },
+    {
+      "name": "mic_permission_reason",
+      "value": "The microphone feeds the real-time Opus encode and decode loopback"
+    }
+  ]
+}

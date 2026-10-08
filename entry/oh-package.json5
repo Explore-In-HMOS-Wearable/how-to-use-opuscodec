@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Opus codec sample: capability, low-latency loopback, AVPlayer + AVSession playback",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libopuscodec.so": "file:./src/main/cpp/types/libopuscodec"
+  }
+}

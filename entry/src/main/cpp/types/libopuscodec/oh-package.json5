@@ -1,0 +1,6 @@
+{
+  "name": "libopuscodec.so",
+  "types": "./Index.d.ts",
+  "version": "1.0.0",
+  "description": "Opus encode/decode bindings on top of the AVCodec NDK"
+}
